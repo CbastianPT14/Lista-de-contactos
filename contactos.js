@@ -40,6 +40,7 @@ function borrarContacto(nombre) {
  }
  imprimirContactos();
 
+// Avance 1
 
 
 
