@@ -47,7 +47,11 @@ console.log(ListaDeContactos[3].nombreApellido);  // Imprimir "Elena Triviño"
  }
  imprimirContactos();
 
-// Avance 2
+// Actualizar contacto
+
+ListaDeContactos[3].direccion = "Calle 35 h sur N 5"
+console.log(ListaDeContactos)
+
 
 
 
